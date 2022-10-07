@@ -1,2 +1,2 @@
-# OhMy Rolea
+# OhMy Roles
 OhMy Bot
