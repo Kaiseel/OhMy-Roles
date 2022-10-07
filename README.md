@@ -1,2 +1,2 @@
-# effective-guide
+# OhMy Rolea
 OhMy Bot
